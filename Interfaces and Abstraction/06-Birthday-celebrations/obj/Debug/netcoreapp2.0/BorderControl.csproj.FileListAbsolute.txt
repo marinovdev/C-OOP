@@ -1,0 +1,10 @@
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.deps.json
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.json
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.dev.json
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.dll
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.pdb
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csprojAssemblyReference.cache
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfo.cs
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.dll
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.pdb

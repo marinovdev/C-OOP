@@ -1,0 +1,9 @@
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\06-Birthday-celebrations.deps.json
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\06-Birthday-celebrations.runtimeconfig.json
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\06-Birthday-celebrations.runtimeconfig.dev.json
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\06-Birthday-celebrations.dll
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\bin\Debug\netcoreapp2.0\06-Birthday-celebrations.pdb
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\06-Birthday-celebrations.AssemblyInfoInputs.cache
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\06-Birthday-celebrations.AssemblyInfo.cs
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\06-Birthday-celebrations.dll
+C:\Users\Infinity\source\repos\Interfaces-And-Abstraction\BorderControl\obj\Debug\netcoreapp2.0\06-Birthday-celebrations.pdb
