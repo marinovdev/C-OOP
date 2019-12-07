@@ -1,0 +1,39 @@
+using System;
+
+namespace List_interfaces_in_class
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Car car = new Car();
+
+            Type type = car.GetType() ;
+            var interfaces = type.GetInterfaces();
+
+            foreach (var @interface in interfaces)
+            {
+                Console.WriteLine(@interface); // Prints all interfaces in Car
+            }
+        }
+
+        class Car : ICloneable, IComparable, IDisposable
+        {
+            public object Clone()
+            {
+                return null;
+            }
+
+            public int CompareTo(object obj)
+            {
+                return 5;
+            }
+
+            public void Dispose()
+            {
+                Console.WriteLine("fdsf");
+            }
+        }
+
+    }
+}
