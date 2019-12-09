@@ -26,8 +26,7 @@ namespace TestWithConstructors
 
             }
             
-        //(parameter, message )
-            [TestCase(null, "Is Null")]
+        //(parameter, description )
             [TestCase("12345678", "is less than 10")]
             [TestCase("random", "it is string")]
             [TestCase("-1234567890", "has negative")]
@@ -43,5 +42,18 @@ namespace TestWithConstructors
             Assert.IsFalse(condition, message); // All are false
 
             }
+
+        [TestCase(null, "Is Null")]
+        public void IsValidAcceptsNullAsParameter(string egn, string message)
+        {
+            //Arrange
+            var validator = new EgnValidator();
+
+            //Assert
+            Assert.Throws<ArgumentNullException>(
+                () => validator.IsValid(egn), message);
+            //Assert.IsFalse(condition, message); // All are false
+
         }
+    }
     }
