@@ -25,12 +25,13 @@ namespace TestWithConstructors
                 Assert.AreEqual(result, true); // true -> a valid Egn
 
             }
-
-            [TestCase(null)]
-            [TestCase("12345678")]
-            [TestCase("random")]
-            [TestCase("-1234567890")]
-            public void IsValidShouldReturnFalse(string egn)
+            
+        //(parameter, message )
+            [TestCase(null, "Is Null")]
+            [TestCase("12345678", "is less than 10")]
+            [TestCase("random", "it is string")]
+            [TestCase("-1234567890", "has negative")]
+            public void IsValidShouldReturnFalse(string egn, string message)
             {
                 //Arrange
                 var validator = new EgnValidator();
@@ -39,7 +40,7 @@ namespace TestWithConstructors
             var condition = validator.IsValid(egn);
 
             //Assert
-            Assert.IsFalse(condition); // All are false
+            Assert.IsFalse(condition, message); // All are false
 
             }
         }
